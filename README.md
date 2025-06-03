@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Always building 🚀.
+I love to learn, teach, and write. Check out my [blog](https://dev.to/hmcodes).
+I love working on tools to make my life and the lives of others easier - usually with TypeScript, but I've worked professionally with other languages like Java and C#. Check out some of my pinned side projects.
+You can find me posting cryptic phrases on [twitter](https://x.com/hmcodes).
+I'm open to new opportunities. Let's connect 🙂.

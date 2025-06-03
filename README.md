@@ -20,7 +20,7 @@ Always building 🚀.\
 In between work and [Sheltah](https://www.sheltah.com), I can't stop working on tools to make my life and the lives of others easier - usually with TypeScript, but I've worked professionally with other languages like Java and C#. Check out some of my pinned side projects below.\
 \
 I also love to learn, teach, and write. Check out my [blog](https://dev.to/hmcodes).\
-The language I'm currently learning is good ol' espanol. 
+The language I'm currently learning is good ol' espanol. \
 \
 You can find me posting cryptic phrases on [twitter](https://x.com/hmcodes).\
 I'm open to new opportunities. Let's connect 🙂.

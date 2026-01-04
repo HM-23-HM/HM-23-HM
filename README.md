@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 Always building 🚀.\
 \
-I love working on tools to make my life and the lives of others easier - usually with TypeScript, but I've worked professionally with other languages like Java and C#. Check out some of my pinned side projects below.\
-\
-I also love to learn, teach, and write. Check out my [blog](https://dev.to/hmcodes).\
-The language I'm currently learning is good ol' espanol. \
-\
+Check out my [blog](https://dev.to/hmcodes).\
 You can find me posting cryptic phrases on [twitter](https://x.com/hmcodes).\
 I'm open to new opportunities. Let's connect.
